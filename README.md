@@ -1,5 +1,6 @@
 chat
 ---
+[![Build Status](https://travis-ci.org/JacobHsu/chat.svg?branch=master)](https://travis-ci.org/JacobHsu/chat)
 
 # npm
 
